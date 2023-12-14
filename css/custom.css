@@ -1,0 +1,27 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+/*------------------------------------------------------------------
+    IMPORT FONTS
+-------------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Engagement');
+:root{
+    --red:#881228;
+    --logo-font: 'Lobster', cursive;
+    --cursive-font: 'Great vibes', cursive;
+    --cursive-font-2: 'Engagement', cursive;
+
+
+    --couple-name:Keya Sawant & Parth Patil;
+}
+
+#logo{
+    color: var(--red);
+    font-size: 30px;
+    font-weight: 700;
+    font-family:var(--logo-font)
+}
